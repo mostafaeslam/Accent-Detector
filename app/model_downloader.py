@@ -67,20 +67,20 @@ def setup_models():
 
     # List of models to download - add your models here
     models = [
-        # Example: English Accent Classifier model
+        # English Accent Classifier model
         {
             "path": os.path.join(
                 model_dir, "accent_id_commonaccent_xlsr_en_english", "wav2vec2.ckpt"
             ),
-            "url": "YOUR_MODEL_URL_HERE",  # Replace with actual URL
+            "url": "https://huggingface.co/Jzuluaga/accent-id-commonaccent_xlsr-en-english/resolve/main/wav2vec2.ckpt",  # Actual URL from Hugging Face
             "description": "English Accent Classifier wav2vec2",
         },
-        # Example: Language ID model
+        # Language ID model
         {
             "path": os.path.join(
                 pretrained_dir, "lang-id-commonlanguage_ecapa", "embedding_model.ckpt"
             ),
-            "url": "YOUR_MODEL_URL_HERE",  # Replace with actual URL
+            "url": "https://huggingface.co/speechbrain/lang-id-commonlanguage_ecapa/resolve/main/embedding_model.ckpt",  # Actual URL from Hugging Face
             "description": "Language ID ECAPA Embedding Model",
         },
         # Add more models as needed
