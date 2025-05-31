@@ -1,7 +1,7 @@
 streamlit==1.31.1
 --find-links https://download.pytorch.org/whl/cpu
-torch==2.1.2+cpu
-torchaudio==2.1.2+cpu
+torch==2.5.1+cpu
+torchaudio==2.5.1+cpu
 librosa==0.10.1
 numpy==1.24.3
 openai-whisper==20231117
