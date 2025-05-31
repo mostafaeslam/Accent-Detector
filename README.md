@@ -99,7 +99,7 @@ accent-detector/
 
 For issues or questions:
 - Create an issue on GitHub
-- Contact: support@remwaste.com
+- Contact: support@Example.com
 
 ## License
 
