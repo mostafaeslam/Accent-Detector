@@ -24,11 +24,10 @@ def download_video(video_url: str, download_dir: str) -> str:
     """
     video_id = str(uuid.uuid4())
     output_path = os.path.join(download_dir, f"{video_id}.mp4")
-
     logger.info(f"Downloading video from URL: {video_url}")
 
     command = [
-        "yt-dlp",  # Use just 'yt-dlp' instead of a hardcoded path
+        "yt-dlp",
         "-f",
         "mp4",
         video_url,
