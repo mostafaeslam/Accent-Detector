@@ -99,7 +99,7 @@ accent-detector/
 
 For issues or questions:
 - Create an issue on GitHub
-- Contact: support@Example.com
+- Contact: mostafaeslam1220@gmail.com
 
 ## License
 
