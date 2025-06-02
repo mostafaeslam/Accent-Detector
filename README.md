@@ -1,6 +1,6 @@
 # REMWaste Accent Detector
 
-An AI-powered tool for detecting English accents in speech, designed for REMWaste Company's global waste management communications. Try it live at: [Accent Detector App](https://your-app-name.streamlit.app)
+An AI-powered tool for detecting English accents in speech, designed for REMWaste Company's global waste management communications. Try it live at: [Accent Detector App](https://remwaste-accent-detector.streamlit.app)
 
 ## Features
 
@@ -40,7 +40,7 @@ An AI-powered tool for detecting English accents in speech, designed for REMWast
 ### Setup
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/accent-detector.git
+git clone https://github.com/mostafaeslam/Accent-Detector.git
 cd accent-detector
 ```
 
